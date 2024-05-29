@@ -28,3 +28,5 @@ Other commands:
 * git reset --hard (commit id)
     * reset the branch to that commit
     * removes the file created (gone)
+* git log
+    * show the previous commands
