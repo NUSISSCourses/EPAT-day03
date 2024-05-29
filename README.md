@@ -13,6 +13,11 @@ Source: https://github.com/darryl1975/epat-day03
 * git commit -m “added readme.txt”
 * git push
 
+Tags:
+* git tag -a v1.0.0 -m "Production version 1"
+* git tag --list
+* git push --tags
+
 
 Other commands: 
 * git reset HEAD
